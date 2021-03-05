@@ -131,3 +131,7 @@ a:hover{
     color:white;
     padding-right:15px;
 }
+
+#profile_picture{
+   width: 75%;	
+}
